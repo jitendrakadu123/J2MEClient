@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="J2MEClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/J2MEClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
